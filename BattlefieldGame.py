@@ -92,7 +92,7 @@ for i in range(10) :
             count+=1
     if count1>=4 :
         print()
-        print("🎉🎉🎉YOU WON THE GAME🎉🎉🎉")
+        print("🎉🎉YOU WON THE GAME🎉🎉")
         break
     print()
     print("*"*30)
@@ -102,4 +102,4 @@ for i in range(10) :
     m-=1
 else :
     print()
-    print("😭😭😭 YOU LOST 😭😭😭")
+    print("😭😭 YOU LOST 😭😭")
